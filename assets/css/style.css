@@ -2280,6 +2280,12 @@ html .section-decoration-4 {
   border: 2px solid #0563bb;
 }
 
+@media (max-width: 768px) {
+  .progress-linear-main {
+    margin-top :20px;
+  } 
+}
+
 
 
 
